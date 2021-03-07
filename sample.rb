@@ -1,5 +1,6 @@
 msg = "Hello World!"
 puts msg
 
-name = geta.chomp
-puts "Ny name is #{name}."
+name = gets.chomp
+puts "My name is #{name}."
+puts "私の名前は#{name}です。"
